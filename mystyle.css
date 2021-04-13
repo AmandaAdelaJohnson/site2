@@ -1,0 +1,15 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+#hashbrowns {
+  padding: 8px;
+  background: #FFF;
+  width: 150px;
+  height: 150px;
+}
